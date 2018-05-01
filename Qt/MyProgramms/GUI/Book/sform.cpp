@@ -22,6 +22,7 @@ SForm::~SForm()
     delete ui;
 }
 
+//данный метод создает таблицу
 void SForm::createTab()
 {
     QSqlDatabase db = QSqlDatabase::addDatabase("QODBC");

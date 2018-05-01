@@ -27,7 +27,7 @@ Book::~Book()
 {
     delete ui;
 }
-
+//метод создает главное меню
 void Book::createMenu()
 {
   mainMenu =  menuBar()->addMenu("Меню");
@@ -39,6 +39,7 @@ void Book::createMenu()
   connect(closeApp, SIGNAL(triggered(bool)), this, SLOT(close()));
 }
 
+//метод открывает вторую форму с таблицей
 void Book::openTable()
 {
   SForm *f = new SForm();
@@ -52,6 +53,9 @@ void Book::exportCSV()
 
 }
 
+
+/*метод обрабатывающий нажатие кнопки
+по нажатию кнопки данные вводятся в базу данных*/
 void Book::on_pushButton_save_clicked()
 {
     QSqlDatabase db = QSqlDatabase::addDatabase("QODBC");
