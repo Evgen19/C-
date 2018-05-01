@@ -1,0 +1,9 @@
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\bin\Debug\Cafe.exe.config
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\bin\Debug\Cafe.exe
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\bin\Debug\Cafe.pdb
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\obj\Debug\Cafe.csprojResolveAssemblyReference.cache
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\obj\Debug\Cafe.Form1.resources
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\obj\Debug\Cafe.Properties.Resources.resources
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\obj\Debug\Cafe.csproj.GenerateResource.Cache
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\obj\Debug\Cafe.exe
+c:\users\evgen\documents\visual studio 2013\Projects\Cafe\Cafe\obj\Debug\Cafe.pdb

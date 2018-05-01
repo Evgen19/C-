@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/fone.jpg</file>
+    </qresource>
+</RCC>

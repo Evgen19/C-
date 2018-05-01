@@ -1,0 +1,9 @@
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\bin\Debug\Calculator_wf.exe.config
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\bin\Debug\Calculator_wf.exe
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\bin\Debug\Calculator_wf.pdb
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\obj\Debug\Calculator_wf.csprojResolveAssemblyReference.cache
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\obj\Debug\Calculator_wf.Form1.resources
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\obj\Debug\Calculator_wf.Properties.Resources.resources
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\obj\Debug\Calculator_wf.csproj.GenerateResource.Cache
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\obj\Debug\Calculator_wf.exe
+c:\users\evgen\documents\visual studio 2013\Projects\Calculator_wf\Calculator_wf\obj\Debug\Calculator_wf.pdb

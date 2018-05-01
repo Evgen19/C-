@@ -1,0 +1,6 @@
+c:\users\evgen\documents\visual studio 2013\Projects\Power\Power\bin\Debug\Power.exe.config
+c:\users\evgen\documents\visual studio 2013\Projects\Power\Power\bin\Debug\Power.exe
+c:\users\evgen\documents\visual studio 2013\Projects\Power\Power\bin\Debug\Power.pdb
+c:\users\evgen\documents\visual studio 2013\Projects\Power\Power\obj\Debug\Power.csprojResolveAssemblyReference.cache
+c:\users\evgen\documents\visual studio 2013\Projects\Power\Power\obj\Debug\Power.exe
+c:\users\evgen\documents\visual studio 2013\Projects\Power\Power\obj\Debug\Power.pdb

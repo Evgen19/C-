@@ -1,0 +1,14 @@
+C:\Users\Evgen\AppData\Local\Temporary Projects\Energy\bin\Debug\Energy.exe
+C:\Users\Evgen\AppData\Local\Temporary Projects\Energy\bin\Debug\Energy.pdb
+C:\Users\Evgen\AppData\Local\Temporary Projects\Energy\obj\x86\Debug\Energy.Form1.resources
+C:\Users\Evgen\AppData\Local\Temporary Projects\Energy\obj\x86\Debug\Energy.Properties.Resources.resources
+C:\Users\Evgen\AppData\Local\Temporary Projects\Energy\obj\x86\Debug\Energy.csproj.GenerateResource.Cache
+C:\Users\Evgen\AppData\Local\Temporary Projects\Energy\obj\x86\Debug\Energy.exe
+C:\Users\Evgen\AppData\Local\Temporary Projects\Energy\obj\x86\Debug\Energy.pdb
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Debug\Energy.exe
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Debug\Energy.pdb
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\bin\Debug\Energy.exe
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\bin\Debug\Energy.pdb
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Debug\Energy.Form1.resources
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Debug\Energy.Properties.Resources.resources
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Debug\Energy.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\bin\Release\Energy.exe
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\bin\Release\Energy.pdb
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Release\Energy.Form1.resources
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Release\Energy.Properties.Resources.resources
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Release\Energy.csproj.GenerateResource.Cache
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Release\Energy.exe
+C:\Users\Evgen\documents\visual studio 2010\Projects\Energy\Energy\obj\x86\Release\Energy.pdb

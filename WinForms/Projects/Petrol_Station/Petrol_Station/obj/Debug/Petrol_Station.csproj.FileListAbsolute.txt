@@ -1,0 +1,9 @@
+c:\users\evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\bin\Debug\Petrol_Station.exe.config
+C:\Users\Evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\bin\Debug\Petrol_Station.exe
+C:\Users\Evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\bin\Debug\Petrol_Station.pdb
+C:\Users\Evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\obj\Debug\Petrol_Station.csprojResolveAssemblyReference.cache
+C:\Users\Evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\obj\Debug\Petrol_Station.Form1.resources
+C:\Users\Evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\obj\Debug\Petrol_Station.Properties.Resources.resources
+C:\Users\Evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\obj\Debug\Petrol_Station.csproj.GenerateResource.Cache
+C:\Users\Evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\obj\Debug\Petrol_Station.exe
+C:\Users\Evgen\documents\visual studio 2013\Projects\Petrol_Station\Petrol_Station\obj\Debug\Petrol_Station.pdb
