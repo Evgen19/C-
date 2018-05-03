@@ -1,0 +1,10 @@
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\bin\Debug\howto_draw_pie_chart.exe.config
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\bin\Debug\howto_draw_pie_chart.exe
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\bin\Debug\howto_draw_pie_chart.pdb
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\obj\Debug\howto_draw_pie_chart.csprojResolveAssemblyReference.cache
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\obj\Debug\howto_draw_pie_chart.Properties.Resources.resources
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\obj\Debug\howto_draw_pie_chart.csproj.GenerateResource.cache
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\obj\Debug\howto_draw_pie_chart.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\obj\Debug\howto_draw_pie_chart.exe
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\obj\Debug\howto_draw_pie_chart.pdb
+C:\Users\Evgen\source\repos\howto_draw_pie_chart\howto_draw_pie_chart\obj\Debug\howto_draw_pie_chart.Form1.resources

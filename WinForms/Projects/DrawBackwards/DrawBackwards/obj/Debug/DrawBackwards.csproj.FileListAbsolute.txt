@@ -1,0 +1,10 @@
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\bin\Debug\DrawBackwards.exe.config
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\bin\Debug\DrawBackwards.exe
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\bin\Debug\DrawBackwards.pdb
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\obj\Debug\DrawBackwards.csprojResolveAssemblyReference.cache
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\obj\Debug\DrawBackwards.Form1.resources
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\obj\Debug\DrawBackwards.Properties.Resources.resources
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\obj\Debug\DrawBackwards.csproj.GenerateResource.cache
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\obj\Debug\DrawBackwards.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\obj\Debug\DrawBackwards.exe
+C:\Users\Evgen\source\repos\DrawBackwards\DrawBackwards\obj\Debug\DrawBackwards.pdb
