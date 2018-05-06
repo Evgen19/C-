@@ -1,3 +1,5 @@
+/*Программа-локальная база данных для книг подключенная к Microsoft Access*/
+//Подключаем необходимые библиотеки
 #include "book.h"
 #include "ui_book.h"
 #include "sform.h"
@@ -12,7 +14,10 @@
 #include <QTextCodec>
 #include <QString>
 #include <QFile>
+#include <QBuffer>
+#include <QByteArray>
 
+//константа для подключения базы данных
 #define ACCESS ("DRIVER={Microsoft Access Driver (*.mdb)};FIL={MS Access};DBQ=C:\\Users\\Evgen\\Documents\\db2.mdb")
 
 Book::Book(QWidget *parent) :
@@ -27,7 +32,8 @@ Book::~Book()
 {
     delete ui;
 }
-//метод создает главное меню
+
+//метод создает меню главного окна
 void Book::createMenu()
 {
   mainMenu =  menuBar()->addMenu("Меню");
@@ -39,7 +45,7 @@ void Book::createMenu()
   connect(closeApp, SIGNAL(triggered(bool)), this, SLOT(close()));
 }
 
-//метод открывает вторую форму с таблицей
+//метод открывает форму с таблицей базы данных
 void Book::openTable()
 {
   SForm *f = new SForm();
@@ -47,17 +53,16 @@ void Book::openTable()
   f->setWindowTitle("Табличные данные");
 }
 
+//метод сохранения базы данных в формате CSV
 void Book::exportCSV()
 {
 
 
 }
 
-
-/*метод обрабатывающий нажатие кнопки
-по нажатию кнопки данные вводятся в базу данных*/
 void Book::on_pushButton_save_clicked()
 {
+    //Подключаем базу данных
     QSqlDatabase db = QSqlDatabase::addDatabase("QODBC");
     db.setDatabaseName(ACCESS);
 
@@ -67,6 +72,8 @@ void Book::on_pushButton_save_clicked()
         return;
     }
 
+
+    //Создаем подключение для занесения данных
     QSqlQuery *query = new QSqlQuery(ACCESS);
     query->prepare("INSERT INTO book(name, author_name, author_fname, release_year, publishing, country, genre)" "VALUES(:name, :author_name, :author_fname, :release_year, :publishing, :country, :genre);");
     query->bindValue(":name", ui->lineEdit_name->text());
@@ -76,5 +83,9 @@ void Book::on_pushButton_save_clicked()
     query->bindValue(":publishing", ui->lineEdit_publishing->text());
     query->bindValue(":country", ui->comboBox_country->currentText());
     query->bindValue(":genre", ui->comboBox_genre->currentText());
+    //query->bindValue(":picture", inByteArray );
     query->exec();
 }
+
+
+

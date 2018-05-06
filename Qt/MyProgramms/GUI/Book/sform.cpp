@@ -7,6 +7,7 @@
 #include <QSqlTableModel>
 #include <QTableView>
 
+//константа для подключения к базе данных
 #define ACCESS ("DRIVER={Microsoft Access Driver (*.mdb)};FIL={MS Access};DBQ=C:\\Users\\Evgen\\Documents\\db2.mdb")
 
 SForm::SForm(QWidget *parent) :
@@ -22,7 +23,7 @@ SForm::~SForm()
     delete ui;
 }
 
-//данный метод создает таблицу
+//метод подключает базу данных и выводит в tableview
 void SForm::createTab()
 {
     QSqlDatabase db = QSqlDatabase::addDatabase("QODBC");
@@ -34,14 +35,15 @@ void SForm::createTab()
         return;
     }
 
+    //вывод базы
     model = new QSqlTableModel();
     model->setTable("book");
     model->select();
     ui->tableView->setModel(model);
 
+    //установка ширины определенных столбцов таблицы
     ui->tableView->setColumnWidth(0,30);
     ui->tableView->setColumnWidth(1,100);
     ui->tableView->setColumnWidth(2,80);
     ui->tableView->setColumnWidth(3,80);
-
 }
