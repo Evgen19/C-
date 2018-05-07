@@ -12,8 +12,6 @@
 #include <QComboBox>
 #include <QPushButton>
 #include <QTextCodec>
-#include <QString>
-#include <QFile>
 #include <QBuffer>
 #include <QByteArray>
 
@@ -53,12 +51,7 @@ void Book::openTable()
   f->setWindowTitle("Табличные данные");
 }
 
-//метод сохранения базы данных в формате CSV
-void Book::exportCSV()
-{
 
-
-}
 
 void Book::on_pushButton_save_clicked()
 {

@@ -120,6 +120,11 @@
     </property>
     <item>
      <property name="text">
+      <string>Англоязычная литература</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
       <string>Детектив</string>
      </property>
     </item>
@@ -131,6 +136,11 @@
     <item>
      <property name="text">
       <string>Зарубежная литература</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Издание для досуга</string>
      </property>
     </item>
     <item>
@@ -193,6 +203,11 @@
       <height>22</height>
      </rect>
     </property>
+    <item>
+     <property name="text">
+      <string>Белоруссия</string>
+     </property>
+    </item>
     <item>
      <property name="text">
       <string>Великобритания</string>

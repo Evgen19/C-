@@ -25,14 +25,15 @@ private:
     QMenu *mainMenu;
     QAction *openTbl;
     QAction *closeApp;
-    QWidget *form;
+
+
 
     void createMenu();
 
 private slots:
     void openTable();
     void on_pushButton_save_clicked();
-    void exportCSV();
+
 };
 
 #endif // BOOK_H
